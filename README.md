@@ -12,9 +12,9 @@ Make sure to have the following libraries installed before running the code:
 - seaborn
 
 You can install these libraries using pip:
-
-pip install pandas numpy matplotlib seaborn
-
+   ```bash
+   - pip install pandas numpy matplotlib seaborn
+   ```
 
 ## 🚀 Getting Started
 
